@@ -1,0 +1,48 @@
+body{
+  background-color: whitesmoke;
+}
+
+p{
+  background-color: lightgray;
+  padding: 15px;
+  margin: 20px;
+}
+
+h1{
+  background-color: lightgreen;
+  padding: 20px;
+  border: 1px solid gray;
+}
+h2{
+  background-color: lightyellow;
+  padding: 15px;
+  border: 1px solid gray;
+}
+
+h1, 
+h2{
+  text-align: center;
+}
+
+ul {
+  background-color: lightpink;
+  color: darkred;
+  padding: 15px;
+  margin: 20px;
+  line-height: 1.8;
+}
+
+ol {
+  background-color: lightblue;
+  color: darkblue;
+  padding: 15px;
+  margin: 20px;
+  line-height: 1.8;
+}
+
+.recipe-image{
+  display: block;
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 10px;
+}

@@ -1,0 +1,97 @@
+ 
+  
+  
+  
+    body {
+      background-color: whitesmoke;
+    }
+h1{
+      background-color:lightgray;
+      padding:20px;
+     font-family: Arial, sans-serif;
+     font-weight: bold;
+     font-size: 18px;
+     border: 1px solid gray;
+     border-radius: 5px;
+     text-align: center;
+    }
+    
+    h2{
+      background-color: lightpink;
+      padding:20px;
+      font-family: Arial sans-serif;
+      text-align: center;
+      font-weight: bold;
+      font-size: 18px;
+      border: 1px solid black;
+      border-radius: 5px;
+    }
+    
+    #myprofile-header{
+      background-color: red;
+      display: block;
+      padding: 10px 20px;
+      border: 2px solid black;
+    }
+
+.myProfileSkill,
+.hobby,
+.goal, 
+.contact{
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+#link a:hover{
+  color: yellow;
+}
+
+.mail{
+  background-color: lightgray;
+  color: lightpink;
+  padding: 10px;
+}
+
+.paragraph {
+  background-color: lightgray;
+  font-size: 16px;
+  line-height: 1.6;
+  color: darkblue;
+  padding: 15px;
+  border: 1px solid black;
+  margin: 20px;
+} 
+
+#link{
+  background-color: lightgray;
+  color: lightpink;
+  padding: 10px;
+}
+#span,
+#link{
+  color:red;
+  padding:10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.profileImage{
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  border-radius: 150px;
+}
+
+ul{
+  background-color: lightpink;
+  padding: 15px;
+  border: 1px solid gray;
+  color: red;
+  text-align: center;
+  line-height: 1.6;
+ 
+}
+  
